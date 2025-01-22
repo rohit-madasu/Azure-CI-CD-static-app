@@ -39,3 +39,4 @@ stages:
         api_location: "" # Api source code path - optional
         output_location: "dist" # Built app content directory - optional
         deployment_environment: 'staging' # Specify the deployment environment as staging
+x
